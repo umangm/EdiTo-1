@@ -1,4 +1,4 @@
 EdiTo
 =====
 
-Collaborative typing from within text editor
+the algorithm to merge two files based on least edit distance
